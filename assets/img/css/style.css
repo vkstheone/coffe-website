@@ -30,3 +30,9 @@ main {
     position: absolute;
 
 }
+
+
+.card-menu img{
+    height: 300px;
+    object-fit: cover;
+}
