@@ -11,6 +11,9 @@
 main {
     margin-top: 5rem;
 }
+section{
+    scroll-margin-top: 6rem;
+}
 .navbar-brand img{
     width: 50px;
 }
